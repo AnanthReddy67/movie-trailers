@@ -1,2 +1,2 @@
 # movie-trailers
-Full Stack Nano Degree project
+Full Stack Nano Degree Project
